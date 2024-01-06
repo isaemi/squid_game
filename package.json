@@ -1,0 +1,15 @@
+{
+  "name": "redlightgreenlight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projectV1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build steps required for a static site.'"
+  },
+  "author": "Saemi Park",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
