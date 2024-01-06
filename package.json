@@ -5,9 +5,8 @@
   "main": "projectV1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "mkdir public && echo \"Build completed.\""
+    "build": "echo \"Build completed.\""
   },
-  
   "author": "Saemi Park",
   "license": "ISC"
 }
