@@ -1,15 +1,16 @@
 {
   "name": "redlightgreenlight",
   "version": "1.0.0",
-  "description": "",
   "main": "projectV1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "mkdir build && xcopy /s /y * build"
+    "build": "mkdir build && copy * build"
   },
   "author": "Saemi Park",
   "license": "ISC",
   "dependencies": {
     "react-scripts": "^5.0.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
